@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Follow our instructions on setting up your project’s GitHub repository.
 Create a webpage with a 16x16 grid of square divs.
 Create the divs using JavaScript. Don’t try to create them by hand by copying and pasting them in your HTML file!
@@ -28,3 +29,6 @@ Rather than squares being the same color throughout the grid, randomize the squa
 Additionally, implement a progressive darkening effect where each interaction darkens the square by 10%. The goal is to achieve a fully black (or completely colored) square in only ten interactions.
 Hint: The opacity CSS property is useful here. To learn how to use it, check this MDN docs article about the opacity CSS property.
 You can choose to do either one or both of these challenges, it’s up to you.
+=======
+# Etch-A-Sketch
+>>>>>>> 673fa23aa3008c7c02831debd493d6c52765b6f6
